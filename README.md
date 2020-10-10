@@ -11,5 +11,4 @@ DEMO --> click the link to view demo
 https://abhisshekcp.github.io/youtube-clone/
 
 # folders
-|
-|_public, scr, package.json
+public, src->(root component)->App.js,package.json 
