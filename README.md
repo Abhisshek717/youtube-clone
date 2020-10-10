@@ -12,13 +12,4 @@ https://abhisshekcp.github.io/youtube-clone/
 
 # folders
 |
-|_public
-|
-|
-|
-|_scr
-|
-|
-|
-|
-|_package.json
+|_public, scr, package.json
