@@ -25,3 +25,10 @@ https://abhisshekcp.github.io/youtube-clone/
 ## Functionalities-Added
 - [x] routing
 - [x] reusable-components
+
+## To create-react-app
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
